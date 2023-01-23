@@ -1,0 +1,14 @@
+img { 
+    border-radius: 40%;
+    width: 200px;
+    height:200px ;
+} 
+.box { 
+display: flex;
+justify-content: center;
+}
+
+h1 { 
+
+    
+}

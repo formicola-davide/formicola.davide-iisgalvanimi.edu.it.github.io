@@ -1,0 +1,22 @@
+div {
+    color: rgba(14, 113, 131, 0.973);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22pt;
+} 
+.siumm { text-align: center; } 
+
+img {
+    border-radius: 2000px; }
+
+h1 { background-color: aquamarine;
+    border-radius: 500px; 
+color: brown; 
+padding: 10px;
+width: fit-content;
+padding-left: 30px;
+padding-right: 30px;} 
+
+.centro {
+display: flex;
+justify-content: center;
+} 
